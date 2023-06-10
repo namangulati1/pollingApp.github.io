@@ -11,7 +11,7 @@ A polling system API is an application programming interface that allows develop
  - MongoDB
  
 
- ## Install
+ ### Install
 
 To install all the dependences of the project, run the following command:
 
